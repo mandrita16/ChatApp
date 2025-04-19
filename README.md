@@ -18,7 +18,7 @@ A Firebase project set up in the Firebase Console
 
 ⚙️ Installation
 Clone the repository:
-git clone https://github.com/your-username/ChatApp.git
+git clone https://github.com/mandrita16/ChatApp.git
 cd ChatApp
 Install dependencies:
 npm install
