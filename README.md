@@ -8,7 +8,7 @@ A real-time chat application built with React and Firebase, allowing users to au
 
 🎨 Responsive UI built with React and CSS
 
-
+https://lawconnect-chat-kfillbwcv-mandrita-dasguptas-projects.vercel.app/
 
 🛠️ Prerequisites
 Node.js installed
